@@ -1,6 +1,6 @@
 # 建库说明
 tetrisrepo主要想实现多包管理前端组件库，所以在此需求上尝试使用lerna实现
-## lerna
+## [lerna](https://github.com/lerna/lerna)
 ```shell
 npx lerna init --independent
 ```
