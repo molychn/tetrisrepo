@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -27,5 +28,5 @@
     "url": "https://github.com/molychn/tetrisrepo/issues"
   },
   "homepage": "https://github.com/molychn/tetrisrepo#readme",
-  "gitHead": "eb66f86454feef5eb601297f3d320c23796527c9"
+  "gitHead": "a4a24a30e10347cb8db937c458ab8b49acd524db"
 }
