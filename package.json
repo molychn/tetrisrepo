@@ -1,9 +1,11 @@
 {
-  "name": "root",
+  "name": "tetrisrepo",
   "private": false,
   "workspaces": [
     "packages/*"
   ],
+  "main": "packages/tetrisrepo/lib/tetrisrepo.js",
+  "version": "0.0.1",
   "devDependencies": {
     "lerna": "^5.1.1"
   }
